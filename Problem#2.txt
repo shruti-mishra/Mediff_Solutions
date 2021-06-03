@@ -1,0 +1,6 @@
+def check_palindrom(word):
+
+    if word.lower() == word[::-1].lower():
+        print('Palindrome')
+    else:
+        print('Not Palindrome')

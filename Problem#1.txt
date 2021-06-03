@@ -1,0 +1,7 @@
+from collections import defaultdict
+
+def group_by_owners(my_dict):
+    dicty = defaultdict(list)
+    for item in my_dict:
+        dicty[my_dict[item]].append(item)
+    print(dicty)

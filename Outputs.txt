@@ -1,0 +1,20 @@
+Problem#1
+================
+====== RESTART: C:/Users/shrut/AppData/Local/Programs/Python/Python38-32/ques.py ======
+defaultdict(<class 'list'>, {'Randy': ['Input.txt', 'Output.txt'], 'Stan': ['Code.py']})
+
+Problem#2
+=======================
+Palindrome
+>>> 
+====== RESTART: C:/Users/shrut/AppData/Local/Programs/Python/Python38-32/ques.py ======
+Palindrome
+>>> 
+====== RESTART: C:/Users/shrut/AppData/Local/Programs/Python/Python38-32/ques.py ======
+Not Palindrome
+
+
+Problem#4
+=======================
+====== RESTART: C:/Users/shrut/AppData/Local/Programs/Python/Python38-32/ques.py ======
+/a/b/c/x
